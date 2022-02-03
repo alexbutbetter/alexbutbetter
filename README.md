@@ -1,4 +1,10 @@
-hi, i'm alex i do mostly gamedev in unity and right now i am learning python.
+alex
+-t1d
+-bad programmer
+-python addict
+-unity game-maker-man
 
-twitter: @alxxosu
-discord: just alex.#2264
+working on [O.S.M.A](https://alexbutbetter.github.io/O.S.M.A/)
+
+(https://github-readme-stats.vercel.app/api/?username=alexbutbetter&count_private=true&theme=tokyonight&showicons=true)]()
+(https://github-readme-stats.vercel.app/api/top-langs/?username=alexbutbetter&langs_count=5&theme=tokyonight)]()
