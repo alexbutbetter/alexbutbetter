@@ -1,21 +1,6 @@
 alex
 
--t1d
-
--bad programmer
-
--python addict
-
--unity game-maker-man
-
-
-
-
-
-
-
-
-working on [O.S.M.A](https://alexbutbetter.github.io/O.S.M.A/)
+working on [O.S.M.A](https://alexbutbetter.github.io/O.S.M.A/) and on [Rikke](https://github.com/InsaneWaifu/Rikke)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexbutbetter&count_private=true&theme=tokyonight&showicons=true)]()
