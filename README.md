@@ -1,10 +1,10 @@
-alex
+<img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
 
-working on [O.S.M.A](https://alexbutbetter.github.io/O.S.M.A/) 
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://archlinux.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/>  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="python" width="40" height="40"/>
+<img src="{https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
 
- 
+<img src="{https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white}" />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexbutbetter&count_private=true&theme=tokyonight&showicons=true)]()
 
