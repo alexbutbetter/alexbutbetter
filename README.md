@@ -1,7 +1,13 @@
-<img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
-<img src="{https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white}" />
+sweaty polish kid 
+
+specs:
+
+I5 4600
+16GB 1600mhz
+240GB SSD
+1TB HDD
+Intel HD 4600
+windows 10 and elementryOS (formerly arch but I forgot my password and was too lazy to re-do everything)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexbutbetter&count_private=true&theme=tokyonight&showicons=true)]()
 
