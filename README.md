@@ -1,19 +1,4 @@
-sweaty polish kid 
-
-specs:
-
-I5 4600
-
-16GB 1600mhz
-240GB 
-
-1TB HDD
-
-Intel HD 4600
-
-windows 10 and elementryOS (formerly arch but I forgot my password and was too lazy to re-do everything)
-
-
+sweaty polish kid who makes questionable software and likes making games
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexbutbetter&count_private=true&theme=tokyonight&showicons=true)]()
 
