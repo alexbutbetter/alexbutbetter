@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c3b495c-8bfd-41bb-b3f5-beb986d9adcf/deploy-status)](https://app.netlify.com/sites/cozy-macaron-b20978/deploys)
 
 
 sweaty polish kid i thinj
